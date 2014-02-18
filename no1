@@ -9,9 +9,9 @@
 	<body bgcolor = "black">
 		<center>
 			<a href = "introPage.html">
-				<img src = "1NoImage.jpg" alt = "1No Image" usemap = "#1NoImage" />
+				<img src = "no1Image.jpg" alt = "no1 Image" usemap = "#no1Image" />
 		
-				<map name = "1NoImage" id = "1NoImage">
+				<map name = "no1Image" id = "no1Image">
 					<area shape = "poly" coords = "82, 308, 317, 307, 317, 412, 82, 412" href = "1Yes.html" alt = "yes">
 				</map>
 			</a>
