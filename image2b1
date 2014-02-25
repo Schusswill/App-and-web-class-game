@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+   
+<html xml:lang="en" lang="en">
+	<body bgcolor ="black">
+		<font face ="brush script mt" size ="7" color ="#6600CC" >
+			<center>
+				<p> 
+			    Woo! You're probably out getting groceries, or jogging, or something!
+				  <img src = ".jpg">
+				</p>
+			</center>
+		</font>
+	</body>
+</html>
